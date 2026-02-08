@@ -44,15 +44,9 @@ This agent aims to:
 
 ## Repository Structure
 
-ansible-connection-analyzer/
-├── README.md
-├── SECURITY.md
-├── agent/
-│ ├── system_prompt.md
-│ ├── capabilities.md
-│ └── limitations.md
-└── examples/
-└── ssh_unreachable.md
+<img width="235" height="258" alt="image" src="https://github.com/user-attachments/assets/99cb559e-7570-4fc4-a9ce-adc3b46b42dc" />
+
+
 
 
 ---
